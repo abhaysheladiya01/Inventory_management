@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Login | Inventory Management</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="flex items-center justify-center min-h-screen bg-gray-100 p-4">
+    <form
+      id="loginForm"
+      class="bg-white p-8 rounded-lg w-full max-w-sm shadow-lg"
+    >
+      <h1 class="text-3xl font-bold text-gray-800 mb-2 text-center">
+        Welcome Back!
+      </h1>
+      <p class="text-sm text-gray-500 mb-6 text-center">
+        Please login to your account
+      </p>
+
+      <div class="mb-4">
+        <label for="email" class="block text-gray-700 text-sm mb-1"
+          >Email Address</label
+        >
+        <input
+          id="email"
+          type="email"
+          placeholder="Enter your email"
+          class="w-full p-3 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-400 transition"
+          required
+        />
+      </div>
+
+      <div class="mb-4">
+        <label for="password" class="block text-gray-700 text-sm mb-1"
+          >Password</label
+        >
+        <input
+          id="password"
+          type="password"
+          placeholder="Enter your password"
+          class="w-full p-3 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-400 transition"
+          required
+        />
+      </div>
+
+      <p id="error" class="text-red-500 text-sm mb-4 hidden"></p>
+
+      <button
+        class="w-full bg-blue-600 text-white py-3 rounded-lg text-lg font-semibold hover:bg-blue-700 transition"
+      >
+        Login
+      </button>
+    </form>
+
+    <script type="module" src="./js/main.js"></script>
+  </body>
+</html>

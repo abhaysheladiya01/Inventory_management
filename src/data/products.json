@@ -1,0 +1,1802 @@
+[
+    {
+        "id": 1,
+        "name": "Portable Solar Camp Shower",
+        "category": "Outdoor",
+        "sub_category": "Camping Equipment",
+        "description": "Portable solar shower for camping and outdoor use.",
+        "price": 29.99,
+        "in_stock": false
+    },
+    {
+        "id": 2,
+        "name": "Apple Cinnamon Breakfast Muffins",
+        "category": "Food - Bakery",
+        "sub_category": "Muffins",
+        "description": "Delicious muffins filled with apples and a hint of cinnamon for breakfast.",
+        "price": 3.49,
+        "in_stock": false
+    },
+    {
+        "id": 3,
+        "name": "Honeycrisp Apples",
+        "category": "Food - Produce",
+        "sub_category": "Fresh Fruits",
+        "description": "Crisp and sweet Honeycrisp apples, freshly picked.",
+        "price": 1.89,
+        "in_stock": true
+    },
+    {
+        "id": 4,
+        "name": "Reflective Safety Vest",
+        "category": "Safety",
+        "sub_category": "Personal Protective Equipment (PPE) & Disaster Preparedness",
+        "description": "Bright safety vest for outdoor visibility during any activity.",
+        "price": 19.99,
+        "in_stock": false
+    },
+    {
+        "id": 5,
+        "name": "Video Camera",
+        "category": "Electronics",
+        "sub_category": "Cameras & Photography",
+        "description": "1080p HD video camera with night vision.",
+        "price": 199,
+        "in_stock": false
+    },
+    {
+        "id": 6,
+        "name": "Dried Cranberries",
+        "category": "Food - Snacks",
+        "sub_category": "Dried Fruits",
+        "description": "Sweet and tart dried cranberries, great for salads and baking.",
+        "price": 4.29,
+        "in_stock": true
+    },
+    {
+        "id": 7,
+        "name": "Cooking Utensil Set",
+        "category": "Kitchen",
+        "sub_category": "Cooking Tools & Utensils",
+        "description": "Complete set of cooking utensils made from bamboo.",
+        "price": 24.99,
+        "in_stock": false
+    },
+    {
+        "id": 8,
+        "name": "Tomato Basil Pasta Sauce",
+        "category": "Food - Sauces",
+        "sub_category": "Pasta Sauces",
+        "description": "Rich and flavorful pasta sauce made with ripe tomatoes and basil.",
+        "price": 3.99,
+        "in_stock": false
+    },
+    {
+        "id": 9,
+        "name": "Air Mattress",
+        "category": "Outdoor",
+        "sub_category": "Camping Equipment",
+        "description": "Inflatable air mattress for convenient sleeping.",
+        "price": 49.99,
+        "in_stock": false
+    },
+    {
+        "id": 10,
+        "name": "Honey Roasted Almonds",
+        "category": "Food - Snacks",
+        "sub_category": "Nuts and Seeds",
+        "description": "Sweet and crunchy roasted almonds.",
+        "price": 4.99,
+        "in_stock": false
+    },
+    {
+        "id": 11,
+        "name": "Cranberry Almond Granola",
+        "category": "Food - Breakfast",
+        "sub_category": "Granola/Cereal",
+        "description": "Crunchy granola with oats, almonds, and dried cranberries.",
+        "price": 4.29,
+        "in_stock": false
+    },
+    {
+        "id": 12,
+        "name": "Arcade Game Machine",
+        "category": "Gaming",
+        "sub_category": "Arcade Machines & Cabinets",
+        "description": "Retro arcade machine for classic gaming.",
+        "price": 299.99,
+        "in_stock": true
+    },
+    {
+        "id": 13,
+        "name": "Luxe Velvet Blazer",
+        "category": "Clothing - Outerwear",
+        "sub_category": "Jackets",
+        "description": "Elevate your outfit with this sophisticated velvet blazer.",
+        "price": 89.99,
+        "in_stock": false
+    },
+    {
+        "id": 14,
+        "name": "Insulated Lunch Box",
+        "category": "Kitchen",
+        "sub_category": "Food Storage Solutions",
+        "description": "Durable lunch box designed to keep food fresh and cool.",
+        "price": 24.99,
+        "in_stock": false
+    },
+    {
+        "id": 15,
+        "name": "Self-Adhesive Wallpaper",
+        "category": "Home",
+        "sub_category": "Decorative Wall Art & Accessories",
+        "description": "Peel and stick wallpaper for easy home decor changes.",
+        "price": 34.99,
+        "in_stock": true
+    },
+    {
+        "id": 16,
+        "name": "Chia Seeds",
+        "category": "Food - Grains",
+        "sub_category": "Superfoods",
+        "description": "Nutty flavored chia seeds, packed with nutrients.",
+        "price": 6.99,
+        "in_stock": true
+    },
+    {
+        "id": 17,
+        "name": "Wall Decals for Kids",
+        "category": "Home",
+        "sub_category": "Home Decor",
+        "description": "Fun and colorful wall decals for children's rooms.",
+        "price": 24.99,
+        "in_stock": false
+    },
+    {
+        "id": 18,
+        "name": "Weighted Jump Rope",
+        "category": "Fitness",
+        "sub_category": "Cardio Equipment",
+        "description": "Adjustable weighted jump rope for workouts.",
+        "price": 15.99,
+        "in_stock": true
+    },
+    {
+        "id": 19,
+        "name": "Dog Walking Waist Pack",
+        "category": "Pets",
+        "sub_category": "Dog Accessories",
+        "description": "Hands-free waist pack for carrying essentials while walking your dog.",
+        "price": 19.99,
+        "in_stock": true
+    },
+    {
+        "id": 20,
+        "name": "Egg Noodles",
+        "category": "Food - Grains",
+        "sub_category": "Pasta",
+        "description": "Wide egg noodles, perfect for casseroles and soups.",
+        "price": 2.29,
+        "in_stock": false
+    },
+    {
+        "id": 21,
+        "name": "Self-Adhesive Wallpaper",
+        "category": "Home",
+        "sub_category": "Decorative Wall Art & Accessories",
+        "description": "Peel and stick wallpaper for easy home decor changes.",
+        "price": 34.99,
+        "in_stock": true
+    },
+    {
+        "id": 22,
+        "name": "Pumpkin Ice Cream",
+        "category": "Food - Frozen Foods",
+        "sub_category": "Frozen Desserts",
+        "description": "Seasonal pumpkin ice cream, perfect for fall.",
+        "price": 4.99,
+        "in_stock": false
+    },
+    {
+        "id": 23,
+        "name": "Coconut Chips",
+        "category": "Food - Snacks",
+        "sub_category": "Healthy Snacks",
+        "description": "Crunchy, toasted coconut chips for snacking.",
+        "price": 3.59,
+        "in_stock": false
+    },
+    {
+        "id": 24,
+        "name": "Basketball",
+        "category": "Sports",
+        "sub_category": "Team Sports",
+        "description": "Official size basketball for indoor and outdoor play.",
+        "price": 29.99,
+        "in_stock": true
+    },
+    {
+        "id": 25,
+        "name": "Kale Salad with Lemon Dressing",
+        "category": "Food - Salads",
+        "sub_category": "Vegetarian Salads",
+        "description": "Fresh kale salad with a zesty lemon dressing, great as a side dish.",
+        "price": 4.99,
+        "in_stock": false
+    },
+    {
+        "id": 26,
+        "name": "Mango Chilli Sauce",
+        "category": "Food - Condiments",
+        "sub_category": "Dressing",
+        "description": "A sweet and spicy sauce for dipping or glazing.",
+        "price": 3.99,
+        "in_stock": true
+    },
+    {
+        "id": 27,
+        "name": "Chocolate Peanut Butter Cups",
+        "category": "Food - Snacks",
+        "sub_category": "Candy",
+        "description": "Delicious dark chocolate cups filled with creamy peanut butter.",
+        "price": 2.29,
+        "in_stock": true
+    },
+    {
+        "id": 28,
+        "name": "Chicken Breasts",
+        "category": "Food - Meat",
+        "sub_category": "Poultry",
+        "description": "Juicy and tender boneless chicken breasts.",
+        "price": 9.99,
+        "in_stock": false
+    },
+    {
+        "id": 29,
+        "name": "USB Wall Charger",
+        "category": "Accessories",
+        "sub_category": "Power Accessories",
+        "description": "Multiple USB ports for charging devices simultaneously.",
+        "price": 19.99,
+        "in_stock": true
+    },
+    {
+        "id": 30,
+        "name": "Pumpkin Spice Cookies",
+        "category": "Food - Bakery",
+        "sub_category": "Seasonal Items",
+        "description": "Delicious cookies flavored with pumpkin and spices.",
+        "price": 3.29,
+        "in_stock": true
+    },
+    {
+        "id": 31,
+        "name": "Hiking Boots",
+        "category": "Footwear",
+        "sub_category": "Outdoor Footwear",
+        "description": "Comfortable hiking boots for outdoor adventures.",
+        "price": 79.99,
+        "in_stock": true
+    },
+    {
+        "id": 32,
+        "name": "Decorative Throw Pillows",
+        "category": "Home",
+        "sub_category": "Decorative Wall Art & Accessories",
+        "description": "Set of stylish throw pillows for home decor.",
+        "price": 29.99,
+        "in_stock": false
+    },
+    {
+        "id": 33,
+        "name": "Hair Dryer",
+        "category": "Beauty",
+        "sub_category": "Hair Care Tools",
+        "description": "Compact hair dryer with multiple heat settings.",
+        "price": 39.99,
+        "in_stock": true
+    },
+    {
+        "id": 34,
+        "name": "Organic Baby Spinach",
+        "category": "Food - Produce",
+        "sub_category": "Fresh Vegetables",
+        "description": "Fresh baby spinach leaves, great for salads and smoothies.",
+        "price": 2.99,
+        "in_stock": false
+    },
+    {
+        "id": 35,
+        "name": "Adjustable Laptop Desk",
+        "category": "Office",
+        "sub_category": "Furniture",
+        "description": "Portable desk that can be adjusted for sitting or standing.",
+        "price": 59.99,
+        "in_stock": true
+    },
+    {
+        "id": 36,
+        "name": "Garden Hose",
+        "category": "Garden",
+        "sub_category": "Garden Supplies",
+        "description": "Durable 50-foot garden hose with nozzle.",
+        "price": 32.99,
+        "in_stock": false
+    },
+    {
+        "id": 37,
+        "name": "Pesto Pasta Sauce",
+        "category": "Food - Sauces",
+        "sub_category": "Pasta Sauces",
+        "description": "Rich basil pesto sauce for pasta and more.",
+        "price": 3.99,
+        "in_stock": true
+    },
+    {
+        "id": 38,
+        "name": "Fall-Themed Table Runner",
+        "category": "Home",
+        "sub_category": "Seasonal Home Decor",
+        "description": "Decorative table runner perfect for autumn gatherings.",
+        "price": 19.99,
+        "in_stock": false
+    },
+    {
+        "id": 39,
+        "name": "Oven-Baked Sweet Potato Fries",
+        "category": "Food - Frozen Foods",
+        "sub_category": "Frozen Vegetables",
+        "description": "Crispy sweet potato fries, perfectly seasoned and baked to perfection.",
+        "price": 3.99,
+        "in_stock": false
+    },
+    {
+        "id": 40,
+        "name": "Vegan Alfredo Sauce",
+        "category": "Food - Sauces",
+        "sub_category": "Plant-Based Sauces",
+        "description": "Creamy, dairy-free Alfredo sauce",
+        "price": 4.99,
+        "in_stock": true
+    },
+    {
+        "id": 41,
+        "name": "High-Quality Yoga Block",
+        "category": "Fitness",
+        "sub_category": "Yoga Equipment",
+        "description": "Foam yoga block for enhancing poses and stability.",
+        "price": 12.99,
+        "in_stock": false
+    },
+    {
+        "id": 42,
+        "name": "Chilli Lime Corn on the Cob",
+        "category": "Food - Vegetable",
+        "sub_category": "Vegetable Snacks",
+        "description": "Corn on the cob seasoned with chili and lime for a spicy kick.",
+        "price": 1.99,
+        "in_stock": true
+    },
+    {
+        "id": 43,
+        "name": "Natural Soy Candles",
+        "category": "Home",
+        "sub_category": "Home Fragrance & Accessories",
+        "description": "Eco-friendly soy candles with a variety of scents.",
+        "price": 19.99,
+        "in_stock": true
+    },
+    {
+        "id": 44,
+        "name": "Fruit Medley Juice",
+        "category": "Food - Beverages",
+        "sub_category": "Juice",
+        "description": "Refreshing juice blend made with various fresh fruits.",
+        "price": 3.49,
+        "in_stock": false
+    },
+    {
+        "id": 45,
+        "name": "Popcorn Chicken",
+        "category": "Food - Frozen",
+        "sub_category": "Frozen Snacks",
+        "description": "Crispy chicken bites, perfect for dipping.",
+        "price": 6.49,
+        "in_stock": true
+    },
+    {
+        "id": 46,
+        "name": "Pet Hair Remover",
+        "category": "Pets",
+        "sub_category": "Grooming Supplies",
+        "description": "Effective roller for removing pet hair from furniture.",
+        "price": 9.99,
+        "in_stock": true
+    },
+    {
+        "id": 47,
+        "name": "Spinach Feta Wraps",
+        "category": "Food - Deli",
+        "sub_category": "Wraps/Rolls",
+        "description": "Whole wheat wraps filled with spinach, feta, and herbs.",
+        "price": 4.29,
+        "in_stock": true
+    },
+    {
+        "id": 48,
+        "name": "Pet Caress Brush",
+        "category": "Pets",
+        "sub_category": "Grooming Supplies",
+        "description": "Gentle brush for removing loose fur from pets.",
+        "price": 12.99,
+        "in_stock": false
+    },
+    {
+        "id": 49,
+        "name": "Portable Pet Stroller",
+        "category": "Pets",
+        "sub_category": "Pet Accessories",
+        "description": "Convenient stroller for pets to enjoy outdoor walks.",
+        "price": 89.99,
+        "in_stock": true
+    },
+    {
+        "id": 50,
+        "name": "Casual Sneakers",
+        "category": "Clothing - Footwear",
+        "sub_category": "Athletic Footwear",
+        "description": "Versatile canvas sneakers suitable for everyday wear with a comfortable fit.",
+        "price": 39.99,
+        "in_stock": false
+    },
+    {
+        "id": 51,
+        "name": "Motorcycle Phone Mount",
+        "category": "Automotive",
+        "sub_category": "Motorcycle Accessories",
+        "description": "Universal mount for smartphones on motorcycles.",
+        "price": 14.99,
+        "in_stock": true
+    },
+    {
+        "id": 52,
+        "name": "Wall Calendar",
+        "category": "Home",
+        "sub_category": "Decorative Wall Art & Accessories",
+        "description": "Beautiful wall calendar for organizing your schedule.",
+        "price": 17.99,
+        "in_stock": false
+    },
+    {
+        "id": 53,
+        "name": "Taro Chips",
+        "category": "Food - Snacks",
+        "sub_category": "Savory Snacks",
+        "description": "Crispy chips made from taro root, a wonderful snack.",
+        "price": 3.59,
+        "in_stock": false
+    },
+    {
+        "id": 54,
+        "name": "Rice Cakes",
+        "category": "Food - Snacks",
+        "sub_category": "Healthy Snacks",
+        "description": "Light and crispy rice cakes, a perfect low-calorie snack.",
+        "price": 2.29,
+        "in_stock": true
+    },
+    {
+        "id": 55,
+        "name": "Foldable Picnic Table",
+        "category": "Outdoor",
+        "sub_category": "Outdoor Furniture",
+        "description": "Lightweight and portable picnic table for outdoor use.",
+        "price": 49.99,
+        "in_stock": true
+    },
+    {
+        "id": 56,
+        "name": "Suede Ankle Booties",
+        "category": "Clothing - Footwear",
+        "sub_category": "Boots",
+        "description": "Chic suede ankle booties, perfect for dressing up or down.",
+        "price": 79.99,
+        "in_stock": false
+    },
+    {
+        "id": 57,
+        "name": "Wireless Wi-Fi Extender",
+        "category": "Electronics",
+        "sub_category": "Networking Equipment",
+        "description": "Boosts your Wi-Fi coverage for better connectivity.",
+        "price": 49.99,
+        "in_stock": false
+    },
+    {
+        "id": 58,
+        "name": "Portable Dog Water Bottle",
+        "category": "Pets",
+        "sub_category": "Dog Accessories",
+        "description": "Convenient water bottle for pets on the go.",
+        "price": 18.99,
+        "in_stock": false
+    },
+    {
+        "id": 59,
+        "name": "Mango Salsa",
+        "category": "Food - Condiments",
+        "sub_category": "Salsas",
+        "description": "Fresh mango salsa with a hint of lime for a zesty topping.",
+        "price": 3.49,
+        "in_stock": true
+    },
+    {
+        "id": 60,
+        "name": "Tabletop Fire Pit",
+        "category": "Outdoor",
+        "sub_category": "Outdoor Accessories",
+        "description": "Compact and stylish indoor/outdoor fire pit for ambiance.",
+        "price": 79.99,
+        "in_stock": true
+    },
+    {
+        "id": 61,
+        "name": "Basic V-Neck T-Shirt",
+        "category": "Clothing - Tops",
+        "sub_category": "T-Shirts",
+        "description": "A staple v-neck t-shirt that pairs well with anything.",
+        "price": 19.99,
+        "in_stock": true
+    },
+    {
+        "id": 62,
+        "name": "Strawberry Banana Smoothie Pack",
+        "category": "Food - Frozen",
+        "sub_category": "Frozen Snacks",
+        "description": "Frozen smoothie pack with strawberries and bananas.",
+        "price": 4.99,
+        "in_stock": false
+    },
+    {
+        "id": 63,
+        "name": "Ceramic Cookware Set",
+        "category": "Kitchen",
+        "sub_category": "Cookware",
+        "description": "Durable and non-stick ceramic cookware for healthy cooking.",
+        "price": 179.99,
+        "in_stock": false
+    },
+    {
+        "id": 64,
+        "name": "Portable Refrigerator Freezer",
+        "category": "Outdoor",
+        "sub_category": "Camping Equipment",
+        "description": "Compact fridge ideal for camping and road trips.",
+        "price": 299.99,
+        "in_stock": true
+    },
+    {
+        "id": 65,
+        "name": "Veggie Burger Patties",
+        "category": "Food - Meat Substitutes",
+        "sub_category": "Plant-Based Proteins",
+        "description": "Delicious veggie burger patties for grilling or frying.",
+        "price": 5.99,
+        "in_stock": true
+    },
+    {
+        "id": 66,
+        "name": "Chipotle Seasoning Blend",
+        "category": "Food - Spices",
+        "sub_category": "Regional Seasoning Blends",
+        "description": "A smoky blend of spices for grilling and roasting.",
+        "price": 2.49,
+        "in_stock": false
+    },
+    {
+        "id": 67,
+        "name": "Vegan Mac & Cheese",
+        "category": "Food - Frozen",
+        "sub_category": "Frozen Meals",
+        "description": "Creamy vegan mac and cheese made with cashew cheese.",
+        "price": 8.99,
+        "in_stock": true
+    },
+    {
+        "id": 68,
+        "name": "Wrap Jumpsuit",
+        "category": "Clothing - Jumpsuits",
+        "sub_category": "Jumpsuits",
+        "description": "Chic wrap jumpsuit that flatters the body and is perfect for any occasion.",
+        "price": 54.99,
+        "in_stock": false
+    },
+    {
+        "id": 69,
+        "name": "Backpacking Tent",
+        "category": "Outdoor",
+        "sub_category": "Camping Equipment",
+        "description": "Lightweight and durable tent for camping trips.",
+        "price": 109.99,
+        "in_stock": false
+    },
+    {
+        "id": 70,
+        "name": "Smartphone Photography Ring Light",
+        "category": "Photography",
+        "sub_category": "Lighting Equipment",
+        "description": "Portable ring light that enhances your photos with perfect lighting.",
+        "price": 29.99,
+        "in_stock": true
+    },
+    {
+        "id": 71,
+        "name": "Orange Ginger Vinaigrette",
+        "category": "Food - Condiments",
+        "sub_category": "Dressing",
+        "description": "Tangy vinaigrette with orange and ginger flavors.",
+        "price": 3.99,
+        "in_stock": true
+    },
+    {
+        "id": 72,
+        "name": "Backpacking Tent",
+        "category": "Outdoor",
+        "sub_category": "Camping Equipment",
+        "description": "Lightweight and durable tent for camping trips.",
+        "price": 109.99,
+        "in_stock": false
+    },
+    {
+        "id": 73,
+        "name": "Eco-Friendly Cleaning Cloths",
+        "category": "Home",
+        "sub_category": "Home Organization",
+        "description": "Reusable microfiber cloths for environmentally friendly cleaning.",
+        "price": 12.99,
+        "in_stock": false
+    },
+    {
+        "id": 74,
+        "name": "Outdoor String Lights",
+        "category": "Outdoor",
+        "sub_category": "Outdoor Accessories",
+        "description": "Fairy lights perfect for decorating patios and backyards.",
+        "price": 24.99,
+        "in_stock": false
+    },
+    {
+        "id": 75,
+        "name": "Handheld Vacuum",
+        "category": "Home Appliances",
+        "sub_category": "Cleaning Appliances",
+        "description": "Cordless handheld vacuum for quick cleanups.",
+        "price": 79.99,
+        "in_stock": false
+    },
+    {
+        "id": 76,
+        "name": "Indoor Plants",
+        "category": "Garden",
+        "sub_category": "Houseplants",
+        "description": "Assorted indoor plants for home decor.",
+        "price": 19.99,
+        "in_stock": true
+    },
+    {
+        "id": 77,
+        "name": "Garlic Herb Seasoning",
+        "category": "Food - Spices",
+        "sub_category": "Herb Blends",
+        "description": "A blend of herbs and garlic for seasoning meats and vegetables.",
+        "price": 1.99,
+        "in_stock": true
+    },
+    {
+        "id": 78,
+        "name": "Organic Brown Rice Cakes",
+        "category": "Food - Snacks",
+        "sub_category": "Healthy Snacks",
+        "description": "Light and crunchy rice cakes made from organic brown rice.",
+        "price": 3.99,
+        "in_stock": true
+    },
+    {
+        "id": 79,
+        "name": "Lemon Pepper Seasoning",
+        "category": "Food - Seasonings",
+        "sub_category": "Citrus Seasonings",
+        "description": "A zesty seasoning for meats and vegetables",
+        "price": 3.29,
+        "in_stock": true
+    },
+    {
+        "id": 80,
+        "name": "Crew Neck Sweater",
+        "category": "Clothing - Sweaters",
+        "sub_category": "Sweaters",
+        "description": "A comfortable crew neck sweater, great for all seasons.",
+        "price": 39.99,
+        "in_stock": true
+    },
+    {
+        "id": 81,
+        "name": "Fall-Themed Table Runner",
+        "category": "Home",
+        "sub_category": "Seasonal Home Decor",
+        "description": "Decorative table runner perfect for autumn gatherings.",
+        "price": 19.99,
+        "in_stock": true
+    },
+    {
+        "id": 82,
+        "name": "Dark Chocolate Covered Almonds",
+        "category": "Food - Snacks",
+        "sub_category": "Nuts and Trail Mix",
+        "description": "Roasted almonds dipped in rich dark chocolate.",
+        "price": 7.19,
+        "in_stock": true
+    },
+    {
+        "id": 83,
+        "name": "Cinnamon Roll Protein Bar",
+        "category": "Food - Snacks",
+        "sub_category": "Protein Snacks",
+        "description": "Soft and chewy bar packed with protein and cinnamon flavors.",
+        "price": 2.99,
+        "in_stock": true
+    },
+    {
+        "id": 84,
+        "name": "Cookbook",
+        "category": "Books",
+        "sub_category": "Cookbooks & Nutrition",
+        "description": "Inspiring cookbook with healthy recipes.",
+        "price": 27.99,
+        "in_stock": false
+    },
+    {
+        "id": 85,
+        "name": "Dual Function Electric Skillet",
+        "category": "Kitchen",
+        "sub_category": "Cookware",
+        "description": "Skillet that can fry, grill, and sauté with ease.",
+        "price": 59.99,
+        "in_stock": false
+    },
+    {
+        "id": 86,
+        "name": "Falafel Mix",
+        "category": "Food - Baking & Cooking",
+        "sub_category": "Seasonings & Mixes",
+        "description": "Easy-to-make falafel mix for a tasty vegetarian meal.",
+        "price": 2.79,
+        "in_stock": false
+    },
+    {
+        "id": 87,
+        "name": "Kids' Art Easel",
+        "category": "Toys",
+        "sub_category": "Creative Toys",
+        "description": "Double-sided art easel for painting and drawing.",
+        "price": 58.99,
+        "in_stock": false
+    },
+    {
+        "id": 88,
+        "name": "Peach Slices (canned)",
+        "category": "Food - Canned Goods",
+        "sub_category": "Canned Fruits",
+        "description": "Juicy peach slices in syrup, perfect for desserts.",
+        "price": 2.49,
+        "in_stock": true
+    },
+    {
+        "id": 89,
+        "name": "Dog Training Collar",
+        "category": "Pets",
+        "sub_category": "Training Supplies",
+        "description": "Rechargeable training collar for effective behavior training.",
+        "price": 39.99,
+        "in_stock": true
+    },
+    {
+        "id": 90,
+        "name": "Avocado Lime Dressing",
+        "category": "Food - Condiments",
+        "sub_category": "Dressing",
+        "description": "Refreshing dressing made with avocado and lime, perfect for salads.",
+        "price": 4.29,
+        "in_stock": false
+    },
+    {
+        "id": 91,
+        "name": "Siphon Coffee Maker",
+        "category": "Kitchen",
+        "sub_category": "Coffee Equipment",
+        "description": "Unique coffee brewing method for a flavorful experience.",
+        "price": 49.99,
+        "in_stock": true
+    },
+    {
+        "id": 92,
+        "name": "Organic Almond Flour",
+        "category": "Food - Baking",
+        "sub_category": "Flours & Meals",
+        "description": "Finely ground almonds for baking or cooking",
+        "price": 6.99,
+        "in_stock": false
+    },
+    {
+        "id": 93,
+        "name": "Incense Holder",
+        "category": "Home",
+        "sub_category": "Decorative Wall Art & Accessories",
+        "description": "Ceramic incense holder for a calming atmosphere.",
+        "price": 14.99,
+        "in_stock": true
+    },
+    {
+        "id": 94,
+        "name": "Rice Pilaf Mix",
+        "category": "Food - Grains",
+        "sub_category": "Convenience Meal Kits",
+        "description": "Quick and easy rice pilaf mix for side dishes.",
+        "price": 2.59,
+        "in_stock": true
+    },
+    {
+        "id": 95,
+        "name": "Gardening Tools Set",
+        "category": "Garden",
+        "sub_category": "Garden Tools",
+        "description": "Complete set of gardening tools for outdoor tasks.",
+        "price": 45,
+        "in_stock": false
+    },
+    {
+        "id": 96,
+        "name": "Honey Garlic Chicken",
+        "category": "Food - Meat",
+        "sub_category": "Prepared Poultry",
+        "description": "Tender chicken coated in a sweet and savory honey garlic sauce.",
+        "price": 8.49,
+        "in_stock": true
+    },
+    {
+        "id": 97,
+        "name": "Oven Mitts",
+        "category": "Kitchen",
+        "sub_category": "Cookware Accessories",
+        "description": "Silicone oven mitts for safe handling of hot cookware.",
+        "price": 15.99,
+        "in_stock": false
+    },
+    {
+        "id": 98,
+        "name": "Pepperoni Pizza Roll-Ups",
+        "category": "Food - Frozen Foods",
+        "sub_category": "Frozen Snacks",
+        "description": "Savory pizza filled with pepperoni and cheese, ready to microwave.",
+        "price": 5.99,
+        "in_stock": false
+    },
+    {
+        "id": 99,
+        "name": "Sun-Dried Tomato Pesto",
+        "category": "Food - Condiments",
+        "sub_category": "Pesto",
+        "description": "A rich pesto made with sun-dried tomatoes and pine nuts.",
+        "price": 4.49,
+        "in_stock": true
+    },
+    {
+        "id": 100,
+        "name": "Pasta (Linguine)",
+        "category": "Food - Pasta",
+        "sub_category": "Pasta",
+        "description": "Thin, flat pasta perfect for various sauces.",
+        "price": 1.89,
+        "in_stock": false
+    },
+    {
+        "id": 101,
+        "name": "Pumpkin Spice Granola",
+        "category": "Food - Breakfast",
+        "sub_category": "Granola/Cereal",
+        "description": "Crunchy granola with pumpkin spice flavor.",
+        "price": 4.99,
+        "in_stock": true
+    },
+    {
+        "id": 102,
+        "name": "Sour Cream",
+        "category": "Food - Dairy",
+        "sub_category": "Dairy Spreads",
+        "description": "Tangy sour cream, perfect for dips and toppings.",
+        "price": 3.49,
+        "in_stock": false
+    },
+    {
+        "id": 103,
+        "name": "Oversized Denim Shirt",
+        "category": "Clothing - Shirts",
+        "sub_category": "Casual Shirts",
+        "description": "A trendy oversized denim shirt perfect for layering.",
+        "price": 49.99,
+        "in_stock": true
+    },
+    {
+        "id": 104,
+        "name": "Balsamic Fig Dressing",
+        "category": "Food - Condiments",
+        "sub_category": "Dressing",
+        "description": "A sweet and tangy dressing made with figs and balsamic vinegar, great on salads.",
+        "price": 3.79,
+        "in_stock": false
+    },
+    {
+        "id": 105,
+        "name": "Cucumber Relish",
+        "category": "Food - Condiments",
+        "sub_category": "Pickles",
+        "description": "Sweet relish made from cucumbers, perfect for sandwiches.",
+        "price": 3.39,
+        "in_stock": false
+    },
+    {
+        "id": 106,
+        "name": "Creamy Tomato Basil Soup",
+        "category": "Food - Canned Goods",
+        "sub_category": "Soups & Broths",
+        "description": "Rich and creamy tomato basil soup, perfect with a grilled cheese.",
+        "price": 3.29,
+        "in_stock": false
+    },
+    {
+        "id": 107,
+        "name": "Herb Garlic Butter",
+        "category": "Food - Condiments",
+        "sub_category": "Herbal Butters",
+        "description": "A flavorful garlic butter blend, perfect for cooking or baking.",
+        "price": 3.99,
+        "in_stock": true
+    },
+    {
+        "id": 108,
+        "name": "Smart Water Bottle",
+        "category": "Fitness",
+        "sub_category": "Hydration Gear",
+        "description": "Water bottle that tracks your hydration levels.",
+        "price": 39.99,
+        "in_stock": false
+    },
+    {
+        "id": 109,
+        "name": "Greek Yogurt Parfait",
+        "category": "Food - Dairy",
+        "sub_category": "Yogurt",
+        "description": "Layered Greek yogurt with granola and mixed berries, ready to enjoy.",
+        "price": 4.49,
+        "in_stock": true
+    },
+    {
+        "id": 110,
+        "name": "LED Flashing Pet Collar",
+        "category": "Pets",
+        "sub_category": "Pet Accessories",
+        "description": "Safety collar with flashing lights for pets during night walks.",
+        "price": 14.99,
+        "in_stock": true
+    },
+    {
+        "id": 111,
+        "name": "Pet Training Clicker",
+        "category": "Pets",
+        "sub_category": "Training Supplies",
+        "description": "Simple tool to train your pet with positive reinforcement.",
+        "price": 5.99,
+        "in_stock": true
+    },
+    {
+        "id": 112,
+        "name": "Sweet Potato & Kale Hash",
+        "category": "Food - Prepared Foods",
+        "sub_category": "Vegetarian Meals",
+        "description": "Savory hash made with sweet potatoes and kale, a perfect side dish.",
+        "price": 5.49,
+        "in_stock": true
+    },
+    {
+        "id": 113,
+        "name": "Coconut Cream Pie Yogurt",
+        "category": "Food - Dairy Alternatives",
+        "sub_category": "Plant-Based Yogurt",
+        "description": "Yogurt with the flavors of coconut cream pie, nice and indulgent.",
+        "price": 1.99,
+        "in_stock": true
+    },
+    {
+        "id": 114,
+        "name": "Cat Tree with Scratching Posts",
+        "category": "Pets",
+        "sub_category": "Cat Furniture",
+        "description": "Multi-level cat tree for play and scratching.",
+        "price": 79.99,
+        "in_stock": true
+    },
+    {
+        "id": 115,
+        "name": "Dog Frisbee Toy",
+        "category": "Pets",
+        "sub_category": "Dog Toys",
+        "description": "Durable and soft frisbee designed for dogs to play with.",
+        "price": 10.99,
+        "in_stock": false
+    },
+    {
+        "id": 116,
+        "name": "Electric Pressure Washer",
+        "category": "Home Improvement",
+        "sub_category": "Outdoor Cleaning",
+        "description": "Powerful electric pressure washer for deep cleaning.",
+        "price": 199.99,
+        "in_stock": false
+    },
+    {
+        "id": 117,
+        "name": "Maple Glazed Carrots",
+        "category": "Food - Prepared Foods",
+        "sub_category": "Vegetable Sides",
+        "description": "Tender carrots glazed with a sweet maple sauce.",
+        "price": 3.29,
+        "in_stock": true
+    },
+    {
+        "id": 118,
+        "name": "Portable Bluetooth Keyboard",
+        "category": "Electronics",
+        "sub_category": "Computer Accessories",
+        "description": "Compact keyboard for tablets and smartphones.",
+        "price": 39.99,
+        "in_stock": true
+    },
+    {
+        "id": 119,
+        "name": "Ground Turkey",
+        "category": "Food - Meat",
+        "sub_category": "Poultry",
+        "description": "Lean and versatile ground turkey, perfect for various dishes.",
+        "price": 5.49,
+        "in_stock": false
+    },
+    {
+        "id": 120,
+        "name": "Vegetarian Pizza",
+        "category": "Food - Frozen Foods",
+        "sub_category": "Frozen Vegetarian Meals",
+        "description": "Frozen pizza loaded with vegetables and cheese.",
+        "price": 5.49,
+        "in_stock": true
+    },
+    {
+        "id": 121,
+        "name": "Pear and Gorgonzola Salad",
+        "category": "Food - Salads",
+        "sub_category": "Gourmet Salads",
+        "description": "Fresh salad with pears, gorgonzola cheese, and nuts, perfect for lunch.",
+        "price": 5.49,
+        "in_stock": true
+    },
+    {
+        "id": 122,
+        "name": "Adjustable Pedicure Footrest",
+        "category": "Beauty",
+        "sub_category": "Nail Care",
+        "description": "Ergonomic footrest for easier pedicure treatment.",
+        "price": 39.99,
+        "in_stock": true
+    },
+    {
+        "id": 123,
+        "name": "Wall-Mounted Organizer",
+        "category": "Home",
+        "sub_category": "Home Organization",
+        "description": "Practical organizer for keeping your home tidy and clutter-free.",
+        "price": 34.99,
+        "in_stock": false
+    },
+    {
+        "id": 124,
+        "name": "Coconut Rice",
+        "category": "Food - Frozen",
+        "sub_category": "Frozen Meals",
+        "description": "Fluffy rice cooked with coconut milk for a tropical twist.",
+        "price": 2.29,
+        "in_stock": false
+    },
+    {
+        "id": 125,
+        "name": "Leather Biker Jacket",
+        "category": "Clothing - Outerwear",
+        "sub_category": "Jackets",
+        "description": "Stylish black leather jacket featuring a zip-up front and multiple pockets.",
+        "price": 129.99,
+        "in_stock": false
+    },
+    {
+        "id": 126,
+        "name": "Mint Chocolate Chip Ice Cream",
+        "category": "Food - Frozen Desserts",
+        "sub_category": "Ice Cream Flavors",
+        "description": "Creamy ice cream with refreshing mint flavor and chocolate chips.",
+        "price": 4.99,
+        "in_stock": false
+    },
+    {
+        "id": 127,
+        "name": "Paint By Numbers Kit",
+        "category": "Art Supplies",
+        "sub_category": "Painting Kits",
+        "description": "Relaxing paint kit with pre-printed canvas for painting.",
+        "price": 24.99,
+        "in_stock": false
+    },
+    {
+        "id": 128,
+        "name": "Creamy Ranch Dressing",
+        "category": "Food - Dressings",
+        "sub_category": "Dressings",
+        "description": "Classic ranch dressing for salads and dipping.",
+        "price": 2.49,
+        "in_stock": true
+    },
+    {
+        "id": 129,
+        "name": "Sporty Slide Sandals",
+        "category": "Clothing - Footwear",
+        "sub_category": "Casual Footwear",
+        "description": "Comfortable slide sandals for lounging by the pool.",
+        "price": 24.99,
+        "in_stock": false
+    },
+    {
+        "id": 130,
+        "name": "Sun Protection Clothing",
+        "category": "Clothing",
+        "sub_category": "Outdoor Apparel",
+        "description": "UV-blocking clothing for outdoor activities.",
+        "price": 44.99,
+        "in_stock": false
+    },
+    {
+        "id": 131,
+        "name": "Granola Clusters",
+        "category": "Food - Cereal",
+        "sub_category": "Granola",
+        "description": "Crunchy granola clusters, perfect for snacking or topping yogurt.",
+        "price": 4.99,
+        "in_stock": true
+    },
+    {
+        "id": 132,
+        "name": "Vegetable Broth",
+        "category": "Food - Canned Goods",
+        "sub_category": "Soups & Broths",
+        "description": "Rich vegetable broth for soups and stews.",
+        "price": 2.29,
+        "in_stock": false
+    },
+    {
+        "id": 133,
+        "name": "Outdoor Fire Pit",
+        "category": "Outdoor",
+        "sub_category": "Outdoor Accessories",
+        "description": "Portable fire pit for backyard gatherings.",
+        "price": 149.99,
+        "in_stock": true
+    },
+    {
+        "id": 134,
+        "name": "Cucumber",
+        "category": "Food - Produce",
+        "sub_category": "Fruits & Vegetables",
+        "description": "Fresh and crunchy cucumbers, great for salads.",
+        "price": 0.99,
+        "in_stock": false
+    },
+    {
+        "id": 135,
+        "name": "Curried Lentil Salad",
+        "category": "Food - Salads",
+        "sub_category": "Vegetarian Salads",
+        "description": "A hearty salad with lentils, veggies, and curry dressing.",
+        "price": 4.29,
+        "in_stock": true
+    },
+    {
+        "id": 136,
+        "name": "Pressure Washer Accessories Kit",
+        "category": "Home Improvement",
+        "sub_category": "Outdoor Cleaning",
+        "description": "Essential attachments for pressure washing.",
+        "price": 39.99,
+        "in_stock": false
+    },
+    {
+        "id": 137,
+        "name": "Spicy Thai Noodles",
+        "category": "Food - Frozen Meals",
+        "sub_category": "Frozen Asian Meals",
+        "description": "Instant noodles with a spicy Thai sauce for quick meals.",
+        "price": 1.99,
+        "in_stock": false
+    },
+    {
+        "id": 138,
+        "name": "Overnight Hiking Backpack",
+        "category": "Outdoor",
+        "sub_category": "Camping Equipment",
+        "description": "Durable backpack with ample storage for outdoor adventures.",
+        "price": 79.99,
+        "in_stock": false
+    },
+    {
+        "id": 139,
+        "name": "Safety Goggles",
+        "category": "Safety",
+        "sub_category": "Personal Protective Equipment (PPE) & Disaster Preparedness",
+        "description": "Protective goggles for DIY and construction work.",
+        "price": 14.99,
+        "in_stock": false
+    },
+    {
+        "id": 140,
+        "name": "Coconut Milk Ice Cream",
+        "category": "Food - Frozen Desserts",
+        "sub_category": "Dairy-Free Desserts",
+        "description": "Dairy-free ice cream made with coconut milk, creamy and delicious.",
+        "price": 6.99,
+        "in_stock": true
+    },
+    {
+        "id": 141,
+        "name": "Classic Pumps",
+        "category": "Clothing - Footwear",
+        "sub_category": "Women's Dress Shoes",
+        "description": "Elegant classic pumps that add sophistication to any outfit.",
+        "price": 64.99,
+        "in_stock": true
+    },
+    {
+        "id": 142,
+        "name": "Savory Oats",
+        "category": "Food - Breakfast",
+        "sub_category": "Savory Breakfast Options",
+        "description": "Instant oats with a savory twist, such as herbs and spices.",
+        "price": 2.49,
+        "in_stock": true
+    },
+    {
+        "id": 143,
+        "name": "Sporty Slide Sandals",
+        "category": "Clothing - Footwear",
+        "sub_category": "Casual Footwear",
+        "description": "Comfortable slide sandals for lounging by the pool.",
+        "price": 24.99,
+        "in_stock": true
+    },
+    {
+        "id": 144,
+        "name": "Organic Spinach",
+        "category": "Food - Produce",
+        "sub_category": "Leafy Greens",
+        "description": "Fresh organic spinach, great for salads or cooking.",
+        "price": 2.99,
+        "in_stock": true
+    },
+    {
+        "id": 145,
+        "name": "Whole Chicken",
+        "category": "Food - Meat",
+        "sub_category": "Poultry",
+        "description": "A whole free-range chicken, ready for roasting.",
+        "price": 12.99,
+        "in_stock": true
+    },
+    {
+        "id": 146,
+        "name": "Fresh Cilantro",
+        "category": "Food - Produce",
+        "sub_category": "Herbs & Spices",
+        "description": "Bright and fragrant cilantro, great for garnishes.",
+        "price": 1.49,
+        "in_stock": true
+    },
+    {
+        "id": 147,
+        "name": "Cranberry Almond Granola",
+        "category": "Food - Breakfast",
+        "sub_category": "Granola/Cereal",
+        "description": "Crunchy granola with oats, almonds, and dried cranberries.",
+        "price": 4.29,
+        "in_stock": true
+    },
+    {
+        "id": 148,
+        "name": "Indoor Grill",
+        "category": "Kitchen",
+        "sub_category": "Cooking Appliances",
+        "description": "Electric indoor grill for quick meals.",
+        "price": 59.99,
+        "in_stock": false
+    },
+    {
+        "id": 149,
+        "name": "Outdoor Adventure Kit",
+        "category": "Outdoor",
+        "sub_category": "Camping Equipment",
+        "description": "Complete outdoor kit for camping and hiking.",
+        "price": 89.99,
+        "in_stock": true
+    },
+    {
+        "id": 150,
+        "name": "Luxe Velvet Blazer",
+        "category": "Clothing - Outerwear",
+        "sub_category": "Jackets",
+        "description": "Elevate your outfit with this sophisticated velvet blazer.",
+        "price": 89.99,
+        "in_stock": true
+    },
+    {
+        "id": 151,
+        "name": "Cranberry Orange Oatmeal",
+        "category": "Food - Breakfast",
+        "sub_category": "Instant Breakfast",
+        "description": "Instant oatmeal flavored with cranberries and orange zest for breakfast.",
+        "price": 2.49,
+        "in_stock": false
+    },
+    {
+        "id": 152,
+        "name": "Flavored Popcorn Mix",
+        "category": "Food - Snacks",
+        "sub_category": "Gourmet Snacks",
+        "description": "Popcorn tossed with sweet or savory flavors for a tasty snack.",
+        "price": 2.99,
+        "in_stock": false
+    },
+    {
+        "id": 153,
+        "name": "Bamboo Charcoal Air Purifier Bags",
+        "category": "Home",
+        "sub_category": "Air Quality & Purification",
+        "description": "Natural air purifiers to absorb odors and moisture.",
+        "price": 12.99,
+        "in_stock": false
+    },
+    {
+        "id": 154,
+        "name": "Mini Meatballs",
+        "category": "Food - Frozen Meals",
+        "sub_category": "Frozen Appetizers",
+        "description": "Frozen mini meatballs that are great as a snack or in pasta dishes.",
+        "price": 5.99,
+        "in_stock": true
+    },
+    {
+        "id": 155,
+        "name": "Spicy Vegetable Sushi Rolls",
+        "category": "Food - Prepared Foods",
+        "sub_category": "Vegetarian Meals",
+        "description": "Vegan sushi filled with spicy vegetables and avocado.",
+        "price": 8.49,
+        "in_stock": true
+    },
+    {
+        "id": 156,
+        "name": "Chickpeas",
+        "category": "Food - Canned Goods",
+        "sub_category": "Canned Legumes",
+        "description": "Canned chickpeas, perfect for hummus or salads.",
+        "price": 1.29,
+        "in_stock": true
+    },
+    {
+        "id": 157,
+        "name": "Creamy Avocado Dip",
+        "category": "Food - Snacks",
+        "sub_category": "Dips and Spreads",
+        "description": "Rich and creamy dip made with real avocado, great for chips.",
+        "price": 3.49,
+        "in_stock": true
+    },
+    {
+        "id": 158,
+        "name": "Hiking Boots",
+        "category": "Footwear",
+        "sub_category": "Outdoor Footwear",
+        "description": "Comfortable hiking boots for outdoor adventures.",
+        "price": 79.99,
+        "in_stock": true
+    },
+    {
+        "id": 159,
+        "name": "Asian Stir-Fry Vegetables",
+        "category": "Food - Frozen Foods",
+        "sub_category": "Frozen Vegetables",
+        "description": "Frozen mix of colorful stir-fry veggies.",
+        "price": 2.99,
+        "in_stock": false
+    },
+    {
+        "id": 160,
+        "name": "Vegetable Samosas",
+        "category": "Food - Frozen",
+        "sub_category": "Frozen Snacks",
+        "description": "Crispy pastry filled with seasoned vegetables.",
+        "price": 4.99,
+        "in_stock": false
+    },
+    {
+        "id": 161,
+        "name": "Magnet Travel Fridge Magnets",
+        "category": "Accessories",
+        "sub_category": "Travel Souvenirs",
+        "description": "Fun tourist magnets from around the world for your fridge.",
+        "price": 12.99,
+        "in_stock": false
+    },
+    {
+        "id": 162,
+        "name": "Over-the-Door Hooks",
+        "category": "Home",
+        "sub_category": "Home Organization",
+        "description": "Convenient hooks that utilize door space for hanging items.",
+        "price": 12.99,
+        "in_stock": false
+    },
+    {
+        "id": 163,
+        "name": "Almond Flour Biscuits",
+        "category": "Food - Bakery",
+        "sub_category": "Gluten-Free Baked Goods",
+        "description": "Gluten-free biscuits made with almond flour.",
+        "price": 6.49,
+        "in_stock": true
+    },
+    {
+        "id": 164,
+        "name": "Kale & Quinoa Salad Mix",
+        "category": "Food - Salads",
+        "sub_category": "Ready-to-Eat Salads",
+        "description": "A nutrient-packed salad mix with kale, quinoa, and a lemon vinaigrette, ready to eat.",
+        "price": 4.49,
+        "in_stock": false
+    },
+    {
+        "id": 165,
+        "name": "Bamboo Cutting Board Set",
+        "category": "Kitchen",
+        "sub_category": "Kitchen Gadgets",
+        "description": "Eco-friendly bamboo cutting boards in various sizes.",
+        "price": 34.99,
+        "in_stock": true
+    },
+    {
+        "id": 166,
+        "name": "Organic Ramen Noodles",
+        "category": "Food - Pasta",
+        "sub_category": "Noodles",
+        "description": "Quick-cooking ramen noodles made with organic wheat.",
+        "price": 2.89,
+        "in_stock": false
+    },
+    {
+        "id": 167,
+        "name": "Spinach and Ricotta Ravioli",
+        "category": "Food - Pasta",
+        "sub_category": "Pasta",
+        "description": "Delicious ravioli filled with creamy ricotta and fresh spinach.",
+        "price": 6.49,
+        "in_stock": true
+    },
+    {
+        "id": 168,
+        "name": "Desk Organizer Set",
+        "category": "Office",
+        "sub_category": "Office Supplies",
+        "description": "Stylish desk set to keep your workspace tidy and organized.",
+        "price": 29.99,
+        "in_stock": true
+    },
+    {
+        "id": 169,
+        "name": "Cable Knit Cardigan",
+        "category": "Clothing - Outerwear",
+        "sub_category": "Knitwear",
+        "description": "Cozy cable knit cardigan to layer during chilly evenings.",
+        "price": 49.99,
+        "in_stock": true
+    },
+    {
+        "id": 170,
+        "name": "Ginger Turmeric Latte Mix",
+        "category": "Food - Beverages",
+        "sub_category": "Herbal Beverages",
+        "description": "A warming blend of ginger and turmeric for lattes.",
+        "price": 5.29,
+        "in_stock": true
+    },
+    {
+        "id": 171,
+        "name": "Vegetable Samosas",
+        "category": "Food - Frozen",
+        "sub_category": "Frozen Snacks",
+        "description": "Crispy pastry filled with seasoned vegetables.",
+        "price": 4.99,
+        "in_stock": true
+    },
+    {
+        "id": 172,
+        "name": "Handcrafted Wooden Jewelry Box",
+        "category": "Accessories",
+        "sub_category": "Jewelry Storage",
+        "description": "Beautifully crafted jewelry box with compartments for storage.",
+        "price": 39.99,
+        "in_stock": false
+    },
+    {
+        "id": 173,
+        "name": "Board Game",
+        "category": "Toys",
+        "sub_category": "Tabletop Games",
+        "description": "Strategic board game for family game nights.",
+        "price": 34.99,
+        "in_stock": false
+    },
+    {
+        "id": 174,
+        "name": "Mini Projector for Smartphones",
+        "category": "Electronics",
+        "sub_category": "Portable Projectors",
+        "description": "Compact and portable projector for watching videos anywhere.",
+        "price": 99.99,
+        "in_stock": false
+    },
+    {
+        "id": 175,
+        "name": "Telescope",
+        "category": "Outdoor",
+        "sub_category": "Outdoor Accessories",
+        "description": "Beginner telescope for stargazing and exploring.",
+        "price": 159.99,
+        "in_stock": true
+    },
+    {
+        "id": 176,
+        "name": "Buffalo Cauliflower Bites",
+        "category": "Food - Freezer",
+        "sub_category": "Frozen Snacks",
+        "description": "Spicy cauliflower bites for a vegetarian snack.",
+        "price": 6.29,
+        "in_stock": true
+    },
+    {
+        "id": 177,
+        "name": "Puzzle 3D Model Kit",
+        "category": "Toys",
+        "sub_category": "Educational Toys",
+        "description": "3D model puzzle kit for creative builders.",
+        "price": 22.99,
+        "in_stock": false
+    },
+    {
+        "id": 178,
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "sub_category": "Computer Accessories",
+        "description": "Ergonomic wireless mouse with adjustable DPI.",
+        "price": 25.99,
+        "in_stock": false
+    },
+    {
+        "id": 179,
+        "name": "Maple Almond Butter",
+        "category": "Food - Nut Butters",
+        "sub_category": "Nut Butters",
+        "description": "Creamy almond butter sweetened with maple syrup for a delicious spread.",
+        "price": 5.49,
+        "in_stock": true
+    },
+    {
+        "id": 180,
+        "name": "Crew Neck Sweater",
+        "category": "Clothing - Sweaters",
+        "sub_category": "Sweaters",
+        "description": "A comfortable crew neck sweater, great for all seasons.",
+        "price": 39.99,
+        "in_stock": false
+    },
+    {
+        "id": 181,
+        "name": "Warm Knit Beanie",
+        "category": "Clothing - Accessories",
+        "sub_category": "Headwear",
+        "description": "Stay warm with this stylish knit beanie in various colors.",
+        "price": 19.99,
+        "in_stock": true
+    },
+    {
+        "id": 182,
+        "name": "Woven Storage Baskets",
+        "category": "Home",
+        "sub_category": "Home Organization",
+        "description": "Stylish baskets for organizing various items in your home.",
+        "price": 24.99,
+        "in_stock": false
+    },
+    {
+        "id": 183,
+        "name": "Smart Water Bottle",
+        "category": "Fitness",
+        "sub_category": "Hydration Gear",
+        "description": "Water bottle that tracks your hydration levels.",
+        "price": 39.99,
+        "in_stock": true
+    },
+    {
+        "id": 184,
+        "name": "Portable Solar Charger",
+        "category": "Electronics",
+        "sub_category": "Solar Power Accessories",
+        "description": "Solar-powered charger for smartphones and tablets.",
+        "price": 29.99,
+        "in_stock": false
+    },
+    {
+        "id": 185,
+        "name": "Peanut Butter",
+        "category": "Food - Condiments",
+        "sub_category": "Nut Butters",
+        "description": "Creamy and smooth peanut butter, perfect for sandwiches.",
+        "price": 3.79,
+        "in_stock": false
+    },
+    {
+        "id": 186,
+        "name": "Non-Toxic Crayons for Kids",
+        "category": "Toys",
+        "sub_category": "Art Supplies",
+        "description": "Safe and vibrant crayons for children's art projects.",
+        "price": 10.99,
+        "in_stock": false
+    },
+    {
+        "id": 187,
+        "name": "Banana Chips",
+        "category": "Food - Snacks",
+        "sub_category": "Sweet Snacks",
+        "description": "Crunchy and sweet banana chips, a great on-the-go snack.",
+        "price": 1.99,
+        "in_stock": true
+    },
+    {
+        "id": 188,
+        "name": "Rechargeable Hand Warmer",
+        "category": "Accessories",
+        "sub_category": "Personal Care",
+        "description": "Portable rechargeable warmer for cold days.",
+        "price": 22.99,
+        "in_stock": true
+    },
+    {
+        "id": 189,
+        "name": "Frozen Spinach",
+        "category": "Food - Frozen Foods",
+        "sub_category": "Frozen Vegetables",
+        "description": "Chopped and frozen spinach, ideal for cooking and smoothies.",
+        "price": 1.99,
+        "in_stock": false
+    },
+    {
+        "id": 190,
+        "name": "Insulated Lunch Box",
+        "category": "Kitchen",
+        "sub_category": "Food Storage Solutions",
+        "description": "Durable lunch box designed to keep food fresh and cool.",
+        "price": 24.99,
+        "in_stock": false
+    },
+    {
+        "id": 191,
+        "name": "Mini Projector for Smartphones",
+        "category": "Electronics",
+        "sub_category": "Portable Projectors",
+        "description": "Compact and portable projector for watching videos anywhere.",
+        "price": 99.99,
+        "in_stock": true
+    },
+    {
+        "id": 192,
+        "name": "Portable Hammock with Stand",
+        "category": "Outdoor",
+        "sub_category": "Camping Equipment",
+        "description": "Lightweight hammock with a sturdy stand for relaxation anywhere.",
+        "price": 69.99,
+        "in_stock": false
+    },
+    {
+        "id": 193,
+        "name": "Indoor Plants",
+        "category": "Garden",
+        "sub_category": "Houseplants",
+        "description": "Assorted indoor plants for home decor.",
+        "price": 19.99,
+        "in_stock": true
+    },
+    {
+        "id": 194,
+        "name": "Wall Art Stickers",
+        "category": "Home",
+        "sub_category": "Decorative Wall Art & Accessories",
+        "description": "Removable wall art stickers for home decoration.",
+        "price": 19.99,
+        "in_stock": false
+    },
+    {
+        "id": 195,
+        "name": "Smartphone Projector Kit",
+        "category": "Electronics",
+        "sub_category": "Home Entertainment Equipment",
+        "description": "DIY kit to convert your smartphone into a mini projector.",
+        "price": 24.99,
+        "in_stock": false
+    },
+    {
+        "id": 196,
+        "name": "Frozen Edamame",
+        "category": "Food - Frozen Foods",
+        "sub_category": "Frozen Snacks",
+        "description": "Lightly salted frozen edamame, a protein-packed snack.",
+        "price": 3.29,
+        "in_stock": true
+    },
+    {
+        "id": 197,
+        "name": "Oven-Baked Cheese Crisps",
+        "category": "Food - Snacks",
+        "sub_category": "Savory Snacks",
+        "description": "Crispy cheese snacks that melt in your mouth.",
+        "price": 3.99,
+        "in_stock": false
+    },
+    {
+        "id": 198,
+        "name": "Herbed Chicken Breast",
+        "category": "Food - Meat",
+        "sub_category": "Poultry",
+        "description": "Marinated chicken breast seasoned with herbs, ready for grilling.",
+        "price": 7.99,
+        "in_stock": true
+    },
+    {
+        "id": 199,
+        "name": "Homestyle Chicken Noodle Soup",
+        "category": "Food - Canned Goods",
+        "sub_category": "Soups & Broths",
+        "description": "Classic chicken noodle soup with tender chicken and vegetables.",
+        "price": 2.99,
+        "in_stock": true
+    },
+    {
+        "id": 200,
+        "name": "Kombucha Drink",
+        "category": "Food - Beverages",
+        "sub_category": "Health Drinks",
+        "description": "Refreshing and tangy fermented tea, available in various flavors.",
+        "price": 3.49,
+        "in_stock": false
+    }
+]
