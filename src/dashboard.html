@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Dashboard | Inventory Management</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gray-100 min-h-screen">
+    <header
+      class="bg-white shadow p-4 flex flex-col sm:flex-row justify-between items-center"
+    >
+      <h1 id="username" class="font-bold text-2xl text-gray-800 mb-2 sm:mb-0">
+        Hello, User
+      </h1>
+      <button
+        id="logout"
+        class="text-red-600 font-semibold hover:text-red-800 transition"
+      >
+        Logout
+      </button>
+    </header>
+
+    <section class="p-4 grid grid-cols-1 sm:grid-cols-3 gap-4">
+      <div
+        class="bg-white p-6 rounded-lg shadow flex flex-col items-center justify-center"
+      >
+        <h2 class="text-gray-500 font-medium">Total Products</h2>
+        <span id="total" class="text-3xl font-bold text-gray-800 mt-2">0</span>
+      </div>
+
+      <div
+        class="bg-green-100 p-6 rounded-lg shadow flex flex-col items-center justify-center"
+      >
+        <h2 class="text-green-700 font-medium">In Stock</h2>
+        <span id="inStock" class="text-3xl font-bold text-green-800 mt-2"
+          >0</span
+        >
+      </div>
+
+      <div
+        class="bg-red-100 p-6 rounded-lg shadow flex flex-col items-center justify-center"
+      >
+        <h2 class="text-red-700 font-medium">Out of Stock</h2>
+        <span id="outStock" class="text-3xl font-bold text-red-800 mt-2"
+          >0</span
+        >
+      </div>
+    </section>
+
+    <section
+      id="products"
+      class="p-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"
+    ></section>
+
+    <section
+      id="details"
+      class="hidden p-6 bg-white m-4 rounded-lg shadow-lg transition duration-300"
+    ></section>
+
+    <script type="module" src="./js/main.js"></script>
+  </body>
+</html>
