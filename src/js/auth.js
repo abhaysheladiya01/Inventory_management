@@ -21,7 +21,7 @@ export function handleLogin(formId, errorId) {
     );
 
     if (!user) {
-      errorEl.textContent = "Invalid credentials";
+      errorEl.textContent = alert("Invalid credentials");
       errorEl.classList.remove("hidden");
       return;
     }
