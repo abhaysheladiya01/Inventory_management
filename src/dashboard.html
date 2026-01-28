@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Dashboard | Inventory Management</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gray-100 min-h-screen">
+    <header
+      class="bg-white shadow p-4 flex flex-col sm:flex-row justify-between items-center"
+    >
+      <h1 id="username" class="font-bold text-2xl text-gray-800 mb-2 sm:mb-0">
+        Hello, User
+      </h1>
+      <button
+        id="logout"
+        class="text-red-600 font-semibold hover:text-red-800 transition"
+      >
+        Logout
+      </button>
+    </header>
+
+    <section class="p-4 grid grid-cols-1 sm:grid-cols-3 gap-4">
+      <div
+        class="bg-white p-6 rounded-lg shadow flex items-center justify-between"
+      >
+        <img
+          src="../assets/images/all-item.png"
+          alt="Out of Stock"
+          class="w-16 h-16"
+        />
+        <div>
+          <h2 class="text-gray-500 font-medium">Total Products</h2>
+          <span id="total" class="text-3xl font-bold text-gray-800 mt-2"
+            >0</span
+          >
+        </div>
+      </div>
+
+      <div
+        id="inStockBox"
+        class="bg-green-100 p-6 rounded-lg shadow flex items-center justify-between"
+      >
+        <img
+          src="../assets/images/in-stock.png"
+          alt="In Stock"
+          class="w-16 h-16"
+        />
+        <div>
+          <h2 class="text-green-700 font-medium">In Stock</h2>
+          <span id="inStock" class="text-3xl font-bold text-green-800 mt-2"
+            >0</span
+          >
+        </div>
+      </div>
+
+      <div
+        id="outStockBox"
+        class="bg-red-100 p-6 rounded-lg shadow flex items-center justify-between"
+      >
+        <img
+          src="../assets/images/outoff-stock.png"
+          alt="Out of Stock"
+          class="w-16 h-16"
+        />
+        <div>
+          <h2 class="text-red-700 font-medium">Out of Stock</h2>
+          <span id="outStock" class="text-3xl font-bold text-red-800 mt-2"
+            >0</span
+          >
+        </div>
+      </div>
+    </section>
+
+    <section
+      id="products"
+      class="p-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"
+    ></section>
+
+    <div
+      id="modal"
+      class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center hidden z-50"
+    >
+      <div
+        id="modalContent"
+        class="bg-white rounded-lg shadow-lg w-11/12 sm:w-2/3 lg:w-1/3 p-6 relative transition"
+      >
+        <button
+          id="closeModal"
+          class="absolute top-2 right-2 text-white font-bold px-2 py-1 rounded hover:bg-gray-700 transition"
+        >
+          Close
+        </button>
+        <div id="modalBody"></div>
+      </div>
+    </div>
+
+    <script type="module" src="./js/main.js"></script>
+  </body>
+</html>
