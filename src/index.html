@@ -3,50 +3,62 @@
   <head>
     <meta charset="UTF-8" />
     <title>Login | Inventory Management</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <script src="https://cdn.tailwindcss.com"></script>
+
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+    </style>
   </head>
-  <body class="flex items-center justify-center min-h-screen bg-gray-100 p-4">
+
+  <body class="bg-gray-100 flex items-center justify-center min-h-[100dvh]">
+
     <form
       id="loginForm"
-      class="bg-white p-8 rounded-lg w-full max-w-sm sm:max-w-md md:max-w-lg lg:max-w-xl xl:max-w-2xl shadow-lg"
+      class="bg-white w-full p-6 sm:p-6 md:p-5 lg:p-4 sm:max-w-md md:max-w-lg lg:max-w-xl rounded-none sm:rounded-lg shadow-lg"
     >
-      <h1 class="text-3xl font-bold text-gray-800 mb-2 text-center">
+      <h1 class="text-3xl sm:text-4xl font-bold text-gray-800 mb-6 text-center">
         Welcome Back!
       </h1>
-      <p class="text-sm text-gray-500 mb-6 text-center">
+
+      <p class="text-base sm:text-lg text-gray-500 mb-8 text-center">
         Please login to your account
       </p>
 
-      <div class="mb-4">
-        <label for="email" class="block text-gray-700 text-sm mb-1"
-          >Email Address</label
-        >
+      <div class="mb-6">
+        <label for="email" class="block text-gray-700 text-base sm:text-lg mb-3">
+          Email Address
+        </label>
         <input
           id="email"
           type="email"
           placeholder="Enter your email"
-          class="w-full p-3 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-400 transition"
+          class="w-full p-4 sm:p-6 text-base sm:text-lg border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-400"
           required
         />
       </div>
 
-      <div class="mb-4">
-        <label for="password" class="block text-gray-700 text-sm mb-1"
-          >Password</label
-        >
+      <div class="mb-6">
+        <label for="password" class="block text-gray-700 text-base sm:text-lg mb-3">
+          Password
+        </label>
         <input
           id="password"
           type="password"
           placeholder="Enter your password"
-          class="w-full p-3 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-400 transition"
+          class="w-full p-4 sm:p-6 text-base sm:text-lg border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-400"
           required
         />
       </div>
-
       <p id="error" class="text-red-500 text-sm mb-4 hidden"></p>
 
       <button
-        class="w-full bg-blue-600 text-white py-3 rounded-lg text-lg font-semibold hover:bg-blue-700 transition"
+        class="w-full bg-blue-600 text-white py-4 sm:py-6 text-lg sm:text-2xl font-semibold hover:bg-blue-700 transition"
       >
         Login
       </button>
